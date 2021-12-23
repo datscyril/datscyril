@@ -1,16 +1,14 @@
-### Hi there 👋 I'm Cyril Ghali
+### 👋 Hello there! I'm Cyril Ghali
 
-I'm a Software Devleloper at [Goodwave](https://www.linkedin.com/company/goodwave/)
-<!--
+I'm a Web Developer at [Goodwave](https://www.linkedin.com/company/goodwave/)
 - 🔭 I’m currently working at Goodwave
-- 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 📖 I’m currently reading [Site Reliability Engineering](https://www.goodreads.com/book/show/27968891-site-reliability-engineering?ac=1&from_search=true&qid=R7og3ImqLf&rank=1)
 - 💬 Ask me about anything! I'll be glad to help you
-- 📫 How to reach me: ...
+- 📫 How to reach me: 👨‍
+  - 💻 [Linkedin](https://www.linkedin.com/in/cyrilghali/)
+  - 📧 [cyril.ghali@epita.fr](mailto:cyril.ghali@epita.fr)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 [![Cyril's GitHub stats](https://github-readme-stats.vercel.app/api?username=datscyril&count_private=true&show_icons=true&show_icons=true&theme=radical)]
 
 
