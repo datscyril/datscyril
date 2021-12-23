@@ -7,9 +7,8 @@ I'm a Web Developer at [Goodwave](https://www.linkedin.com/company/goodwave/)
 - 📫 How to reach me: 👨‍
   - 💻 [Linkedin](https://www.linkedin.com/in/cyrilghali/)
   - 📧 [cyril.ghali@epita.fr](mailto:cyril.ghali@epita.fr)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-[![Cyril's GitHub stats](https://github-readme-stats.vercel.app/api?username=datscyril&count_private=true&show_icons=true&show_icons=true&theme=radical)]
+  - 
+[Cyril's GitHub stats](https://github-readme-stats.vercel.app/api?username=datscyril&count_private=true&show_icons=true&show_icons=true&theme=radical)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats&layout=compact)
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=datscyril)
