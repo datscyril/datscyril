@@ -1,14 +1,13 @@
-### 👋 Hello there! I'm Cyril Ghali
+<h2 align="center">👋 Hello! I'm Cyril Ghali.</h2>
+<p align="center">
+<a href="https://twitter.com/datscyril" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/cyrilghali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+</p>
 
-I'm a Web Developer at [Goodwave](https://www.linkedin.com/company/goodwave/)
-- 🔭 I’m currently working at Goodwave
-- 📖 I’m currently reading [Site Reliability Engineering](https://www.goodreads.com/book/show/27968891-site-reliability-engineering?ac=1&from_search=true&qid=R7og3ImqLf&rank=1)
-- 💬 Ask me about anything! I'll be glad to help you
-- 📫 How to reach me: 👨‍
-  - 💻 [Linkedin](https://www.linkedin.com/in/cyrilghali/)
-  - 📧 [cyril.ghali@epita.fr](mailto:cyril.ghali@epita.fr)
-  - 
+- 🔭 I’m currently working at **[Goodwave](https://www.linkedin.com/company/goodwave/)**
+- 🚀 I'm launching my startup this year
+- 💬 Ask me about anything, I'll be glad to help!
+- 📫 How to reach me: [@datscyril](https://twitter.com/datscyril) on Twitter
+- 💼 Any freelance work? do reach, [email](mailto:cyril.ghali@epita.fr) :)
+- ⚡ Fun fact: Big Fan of the :zap: emoji
 [Cyril's GitHub stats](https://github-readme-stats.vercel.app/api?username=datscyril&count_private=true&show_icons=true&show_icons=true&theme=radical)
-
-
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=datscyril)
