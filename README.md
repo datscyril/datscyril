@@ -18,6 +18,3 @@
 - 💬 Ping me about **design**, **devops** or **development**
 - 📫 Reach me: [twitter.com/datscyril](https://twitter.com/datscyril)
 - ⚡️ Fun fact: I'm an [ESFP](https://www.16personalities.com/esfp-personality)
-
-
-[Cyril's GitHub stats](https://github-readme-stats.vercel.app/api?username=datscyril&count_private=true&show_icons=true&show_icons=true&theme=radical)
