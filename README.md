@@ -6,7 +6,7 @@
 ##### NOW
 
 - ⚡️ I’m currently working on [Laserpitch](https://laserpitch.com/)
-- 🚀 I'm launching my startup this year 🚀
+- 🚀 I'm launching my SaaS this year 🚀
 - 🎓 I’m studying at **EPITA**
 
 
