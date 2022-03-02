@@ -5,14 +5,13 @@
 
 ##### NOW
 
-- ⚡️ I’m currently working on [Laserpitch](https://laserpitch.com/)
 - 🚀 I'm launching my SaaS this year 🚀
 - 🎓 I’m studying at **EPITA**
 
 
 ##### BIO
 
-- 🏢 I'm currently working at **Goodwave**
+- 🏢 I worked at **Goodwave** 6 month
 - ⚙️ I use daily: `.tsx`, `.js`, `.html`, `.css`, `.svg`, `.yaml`, `.json`
 - 🌱 Learning all about **Site Reliability Engineering**
 - 💬 Ping me about **design**, **devops** or **development**
