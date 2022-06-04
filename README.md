@@ -9,4 +9,4 @@ In my free time, I love listening to other people's experiences and sharing my o
 
 My earliest availaibility is February 2023.
 
-Want to know more? See my about page
+Want to know more? See my <a href='https://ghali.dev/about'>about</a> page
