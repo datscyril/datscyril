@@ -1,19 +1,12 @@
+# Hi, I’m Cyril GHALI
+I'm a software engineer from Paris.
 
-### Hi there 👋
+I have one year of experience in software development and product management.
 
-#### I'm a Web Developer working in Paris, France.
+I help startups building web apps.
 
-##### NOW
+In my free time, I love listening to other people's experiences and sharing my own. I like reading, writing, and blogging.
 
-- 🚀 I'm launching my SaaS this year 🚀
-- 🎓 I’m studying at **EPITA**
+My earliest availaibility is February 2023.
 
-
-##### BIO
-
-- 🏢 I worked at **Goodwave** 6 month
-- ⚙️ I use daily: `.tsx`, `.js`, `.html`, `.css`, `.svg`, `.yaml`, `.json`
-- 🌱 Learning all about **Site Reliability Engineering**
-- 💬 Ping me about **design**, **devops** or **development**
-- 📫 Reach me: [twitter.com/datscyril](https://twitter.com/datscyril)
-- ⚡️ Fun fact: I'm an [ESFP](https://www.16personalities.com/esfp-personality)
+Want to know more? See my about page
