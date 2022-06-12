@@ -7,6 +7,6 @@ I help startups building **web apps**.
 
 In my free time, I love listening to other people's experiences and sharing my own. I like reading, writing, and blogging.
 
-My earliest availaibility is February 2023.
+My favorite hobby is Home labbing ! 
 
-Want to know more? See my <a href='https://ghali.dev/about'>about</a> page
+Let's have a chat :)
